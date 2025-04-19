@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=KkzsRYJyonc
 
 ---
 
-##使用的packages
+## 使用的packages
 * pip install pyautogui
 * pip install tkinter
 
